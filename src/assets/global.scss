@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+
+@font-face {
+  font-family: HyliaSerif;
+  src: url("HyliaSerifBeta-Regular.otf") format("opentype");
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: #ece6d9;
+}
+
+h1 {
+  font-family: HyliaSerif;
+  letter-spacing: 4px;
+}
