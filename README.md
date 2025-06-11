@@ -8,6 +8,7 @@ Finding a job has never felt so magical. Discover job listings from the kingdom 
 
 - Vue 3 + Vite
 - Composition API
+- TypeScript
 
 ## 🚀 Getting Started
 
