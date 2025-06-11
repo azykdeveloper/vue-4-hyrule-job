@@ -1,33 +1,21 @@
-# vue-4-hyrule-job
+![App Screenshot](https://i.postimg.cc/pLwy25fT/image.png)
 
-This template should help get you started developing with Vue 3 in Vite.
+# Weather App [demo](https://vue-4-hyrule-jobs.netlify.app/)
 
-## Recommended IDE Setup
+Finding a job has never felt so magical. Discover job listings from the kingdom of Hyrule built with Vue 3!
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 🔧 Technologies
 
-## Type Support for `.vue` Imports in TS
+- Vue 3 + Vite
+- Composition API
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+## 🚀 Getting Started
 
-## Customize configuration
+To run the project locally:
 
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
+```bash
+git clone https://github.com/azykdeveloper/vue-4-hyrule-jobs.git
+cd vue-4-hyrule-jobs
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
 
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
